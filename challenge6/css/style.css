@@ -1,0 +1,26 @@
+header {
+    background-color: #666;
+    padding: 30px;
+    text-align: center;
+    color: white;
+  }
+.main{
+    font-size: 50px;
+  }
+footer {
+    background-color: #777;
+    padding: 100px;
+    text-align: center;
+    color: white;
+}
+.media{
+    display: flex;
+    margin-right: 10px;
+    margin-top: 10px; 
+    gap: 40px; 
+    font-size: 35px;
+}
+.media:hover{
+    color: rgb(27, 26, 23);
+    
+}

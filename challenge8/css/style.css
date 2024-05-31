@@ -1,0 +1,11 @@
+
+.centerd {
+    text-align: center;
+    display: ruby-text;
+}
+
+.card {
+    background-color: #f3c1c1;
+    border-radius: 10px;
+    padding: 20px;
+}

@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(250, 235, 215);
+    /* display: inline; */
+    text-align:center;
+
+}
+.header{
+    border: 3px black solid;
+    border-radius: 12px; 
+    
+}
+
+form{
+    font-size: 30px;
+    display: inline;    
+   
+}
+button{
+    background-color: blue;
+    height: 30px;
+    width: 60px;
+    color: red;
+    border: 3px  solid;
+    border-color: rgb(9, 233, 65);
+    border-radius: 40px;
+}
+button:hover{
+    color: black;
+    background-color: white;
+}
